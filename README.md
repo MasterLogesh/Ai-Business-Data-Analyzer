@@ -30,21 +30,17 @@ An AI-powered, intelligent, interactive dashboard for business in- sights using 
 
 ## 📷 Screenshots
 
-<!-- Replace these with your own images -->
-<p align="center">
-  <img src="![Screenshot 2025-06-08 195856](https://github.com/user-attachments/assets/858a68ea-2e06-42fc-b642-7f1dc724eb22)
-" width="600" alt="Dashboard Overview"/>
-  <br />
-  <img src="![Screenshot 2025-06-08 200649](https://github.com/user-attachments/assets/d8ca1325-c7b3-4d55-86b8-10d534749977)
-" width="600" alt="Summary Statistics"/>
-  <br />
-  <img src="![Screenshot 2025-06-08 201657](https://github.com/user-attachments/assets/95c3f145-3365-42e6-85b3-8f7a19697a90)
-" width="600" alt="Vissualization"/>
-  <br />
-  <img src="![Screenshot 2025-06-08 202657](https://github.com/user-attachments/assets/1524913c-a3de-457b-a221-6f5d62fb4f50)
-" width="600" alt="Report Download & Gemini AI Query"/>
-</p>
+> Add screenshots here
 
+> ![Dashboard Overview](![Screenshot 2025-06-08 195856](https://github.com/user-attachments/assets/bd3d02f6-7aa6-4772-98a9-907bd5002ec1)
+)
+> ![Summary Statistics](![Screenshot 2025-06-08 200649](https://github.com/user-attachments/assets/e6464023-cc66-4ae7-a2c5-1be7ad640c72)
+)
+> > ![Visualization](![Screenshot 2025-06-08 201657](https://github.com/user-attachments/assets/111429ad-a02d-4a38-826c-4d60d5801bbb)
+)
+>  ![Report Download & Gemini ChatBot](![Screenshot 2025-06-08 202657](https://github.com/user-attachments/assets/c0addd67-5df7-4bc6-b4d5-41dc7d8475ed)
+)
+  
 ---
 
 ## 📂 Project Structure
