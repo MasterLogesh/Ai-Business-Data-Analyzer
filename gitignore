@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Report and dataset files
+*.pdf
+*.xlsx
+*.csv
+
+# Environment files
+.env
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env/
