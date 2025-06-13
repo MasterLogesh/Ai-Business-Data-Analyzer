@@ -1,0 +1,9 @@
+Business-Data-Analyzer/
+├── Ai_Business_Analysit.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+├── screenshots/
+│   ├── dashboard.png
+│   └── ai_query.png
+└── LICENSE (optional)
