@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+google-generativeai
+reportlab
+xlsxwriter
+
+If you're using Python 3.10 or higher, these packages are compatible.
